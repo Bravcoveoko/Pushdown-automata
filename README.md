@@ -7,7 +7,7 @@ There are two files:
 Rules are in form:
 
 S -> abcDF | ffkIO  # S is initial state. Write initial state always first
-D -> aaD | fk
+D -> aaD | fk \n
 F -> a | b
 I -> a
 O -> b
