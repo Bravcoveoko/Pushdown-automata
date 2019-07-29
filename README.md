@@ -6,7 +6,7 @@ There are two files:
 
 Rules are in form:
 
-S -> abcDF | ffkIO
+S -> abcDF | ffkIO <br/>
 D -> aaD | fk
 F -> a | b
 I -> a
