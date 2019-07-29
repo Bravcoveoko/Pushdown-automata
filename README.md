@@ -6,8 +6,8 @@ There are two files:
 
 Rules are in form:
 
-S -> abcDF | ffkIO  # S is initial state. Write initial state always first
-D -> aaD | fk \n
+S -> abcDF | ffkIO
+D -> aaD | fk
 F -> a | b
 I -> a
 O -> b
