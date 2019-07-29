@@ -7,9 +7,9 @@ There are two files:
 Rules are in form:
 
 S -> abcDF | ffkIO <br/>
-D -> aaD | fk
-F -> a | b
-I -> a
+D -> aaD | fk <br/>
+F -> a | b <br/>
+I -> a <br/>
 O -> b
 
 Expression is in basic form but it can test only one word.
